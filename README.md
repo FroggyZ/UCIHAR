@@ -1,4 +1,4 @@
-# README file of my "UCI-HAR" repo
+# README file of my "UCIHAR" repo
 
 ###What is `in` this repo:
 
